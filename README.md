@@ -1,10 +1,10 @@
-# Haizhen: Information Engineering (NXU Double Degree)
+# Haizhen (何海真): Information Engineering (NXU Double Degree)
 
 Study notes, exercises, and exam materials for the Information Engineering
 double-degree program at **Nanjing Xiaozhuang University (NXU)**, covering
 Semester 5 through graduation.
 
-信息工程双学位项目的学习笔记、练习与考试资料，就读于**南京晓庄学院**，
+何海真的信息工程双学位项目学习笔记、练习与考试资料，就读于**南京晓庄学院**，
 记录范围为第五学期至毕业。
 
 ## Structure / 目录结构
