@@ -1,4 +1,4 @@
-# Haizhen — Information Engineering (NXU Double Degree)
+# Haizhen: Information Engineering (NXU Double Degree)
 
 Study notes, exercises, and exam materials for the Information Engineering
 double-degree program at **Nanjing Xiaozhuang University (NXU)**, covering
@@ -31,17 +31,17 @@ Semester 5 through graduation.
 
 ## Notes / 说明
 
-`FOR-SUBMIT/` is excluded from version control — it's only a transit folder
+`FOR-SUBMIT/` is excluded from version control. It's only a transit folder
 used to stage files before compressing them into a `.zip` for coursework
 submission.
 
 `FOR-SUBMIT/` 不纳入版本控制，仅作为提交作业前打包成 `.zip` 的中转文件夹。
 
-`SUBJECTS/<SUBJECT-NAME>/MATERIAL/` is also excluded — slides and textbooks
+`SUBJECTS/<SUBJECT-NAME>/MATERIAL/` is also excluded. Slides and textbooks
 are often large binary files (`.ppt`/`.pdf`) and are kept locally only.
 Personal notes derived from them belong in `MATERIAL-NOTES/`, which is
 tracked.
 
-`SUBJECTS/<SUBJECT-NAME>/MATERIAL/` 同样不纳入版本控制——课件与教材多为体积较大
+`SUBJECTS/<SUBJECT-NAME>/MATERIAL/` 同样不纳入版本控制。课件与教材多为体积较大
 的二进制文件（`.ppt`/`.pdf`），仅保存在本地。由这些材料整理出的个人笔记应放在
 `MATERIAL-NOTES/` 中，该目录会被跟踪。
