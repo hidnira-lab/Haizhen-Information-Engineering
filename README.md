@@ -11,6 +11,16 @@ back up.
 印尼留学生。这个仓库基本上就是我的电子书包，收录第五学期到毕业为止每门课的
 笔记、练习和考试复习资料，方便自己以后回顾，也希望能帮到学弟学妹。
 
+## Tech Stack / 技术栈
+
+Whatever gets picked up along the way, one subject at a time. New badges
+get added here as new subjects start.
+
+跟着课程走到哪学到哪，每开始一门新课就在这里加上对应的技能徽章。
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 ## Structure / 目录结构
 
 ```
@@ -68,16 +78,6 @@ Note: the "Advanced Programming" course is tracked under the folder name
 
 备注："Advanced Programming"（高级程序设计）课程对应的文件夹名为
 `ADVANCED-JAVA-PROGRAMMING`，因为该课程作业内容为 Java。
-
-## Tech Stack / 技术栈
-
-Whatever gets picked up along the way, one subject at a time. New badges
-get added here as new subjects start.
-
-跟着课程走到哪学到哪，每开始一门新课就在这里加上对应的技能徽章。
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## Notes / 说明
 
