@@ -29,6 +29,42 @@ Semester 5 through graduation.
   name (e.g. `ADVANCED-JAVA-PROGRAMMING`).
 - `<SUBJECT-NAME>` 使用大写短横线命名（`UPPER-KEBAB-CASE`），与官方课程名称一致。
 
+## Subjects / 课程列表
+
+Based on the School of Information Engineering curriculum for Semester 5-8.
+基于信息工程学院第五至第八学期课程安排。
+
+| Semester | Subject | Folder | Status |
+| --- | --- | --- | --- |
+| 5 | Chinese 1 | [`CHINESE-1`](SUBJECTS/CHINESE-1) | Not started |
+| 5 | Robotics | [`ROBOTICS`](SUBJECTS/ROBOTICS) | Not started |
+| 5 | Application of Database | [`APPLICATION-OF-DATABASE`](SUBJECTS/APPLICATION-OF-DATABASE) | Not started |
+| 5 | Web Programming | [`WEB-PROGRAMMING`](SUBJECTS/WEB-PROGRAMMING) | Not started |
+| 5 | English for IT | [`ENGLISH-FOR-IT`](SUBJECTS/ENGLISH-FOR-IT) | Not started |
+| 5 | Advanced Programming | [`ADVANCED-JAVA-PROGRAMMING`](SUBJECTS/ADVANCED-JAVA-PROGRAMMING) | In progress |
+| 5 | Understanding China | [`UNDERSTANDING-CHINA`](SUBJECTS/UNDERSTANDING-CHINA) | Not started |
+| 6 | Human Computer Interaction | [`HUMAN-COMPUTER-INTERACTION`](SUBJECTS/HUMAN-COMPUTER-INTERACTION) | Not started |
+| 6 | Data Mining | [`DATA-MINING`](SUBJECTS/DATA-MINING) | Not started |
+| 6 | IOS Application Development | [`IOS-APPLICATION-DEVELOPMENT`](SUBJECTS/IOS-APPLICATION-DEVELOPMENT) | Not started |
+| 6 | J2EE-Based Framework Technology | [`J2EE-BASED-FRAMEWORK-TECHNOLOGY`](SUBJECTS/J2EE-BASED-FRAMEWORK-TECHNOLOGY) | Not started |
+| 6 | Software Design Patterns | [`SOFTWARE-DESIGN-PATTERNS`](SUBJECTS/SOFTWARE-DESIGN-PATTERNS) | Not started |
+| 6 | Software Engineering | [`SOFTWARE-ENGINEERING`](SUBJECTS/SOFTWARE-ENGINEERING) | Not started |
+| 6 | Chinese 2 | [`CHINESE-2`](SUBJECTS/CHINESE-2) | Not started |
+| 7 | Selected Topics about Information Technology | [`SELECTED-TOPICS-ABOUT-INFORMATION-TECHNOLOGY`](SUBJECTS/SELECTED-TOPICS-ABOUT-INFORMATION-TECHNOLOGY) | Not started |
+| 7 | Designing Mobile Applications | [`DESIGNING-MOBILE-APPLICATIONS`](SUBJECTS/DESIGNING-MOBILE-APPLICATIONS) | Not started |
+| 7 | Internship and Professional Practice | [`INTERNSHIP-AND-PROFESSIONAL-PRACTICE`](SUBJECTS/INTERNSHIP-AND-PROFESSIONAL-PRACTICE) | Not started |
+| 7 | Comprehensive Program Development | [`COMPREHENSIVE-PROGRAM-DEVELOPMENT`](SUBJECTS/COMPREHENSIVE-PROGRAM-DEVELOPMENT) | Not started |
+| 7 | Research Methodology and Thesis Writing | [`RESEARCH-METHODOLOGY-AND-THESIS-WRITING`](SUBJECTS/RESEARCH-METHODOLOGY-AND-THESIS-WRITING) | Not started |
+| 7 | Tutorial of HSK | [`TUTORIAL-OF-HSK`](SUBJECTS/TUTORIAL-OF-HSK) | Not started |
+| 8 | Thesis | [`THESIS`](SUBJECTS/THESIS) | Not started |
+| 8 | Thesis Seminar | [`THESIS-SEMINAR`](SUBJECTS/THESIS-SEMINAR) | Not started |
+
+Note: the "Advanced Programming" course is tracked under the folder name
+`ADVANCED-JAVA-PROGRAMMING` since its coursework is Java-based.
+
+备注："Advanced Programming"（高级程序设计）课程对应的文件夹名为
+`ADVANCED-JAVA-PROGRAMMING`，因为该课程作业内容为 Java。
+
 ## Notes / 说明
 
 `FOR-SUBMIT/` is excluded from version control. It's only a transit folder

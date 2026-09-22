@@ -1,7 +1,10 @@
 # Transit folder used only to stage files before zipping for submission
 FOR-SUBMIT/
 
-# Heavy raw course material (slides, textbooks, PDFs) - kept locally only.
+# Curriculum and other personal reference data, kept local only
+DATA/
+
+# Heavy raw course material (slides, textbooks, PDFs). Kept locally only.
 # Personal notes about them still live in MATERIAL-NOTES/ and are tracked.
 SUBJECTS/*/MATERIAL/
 
