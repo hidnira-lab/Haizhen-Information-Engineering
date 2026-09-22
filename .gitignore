@@ -1,0 +1,25 @@
+# Transit folder used only to stage files before zipping for submission
+FOR-SUBMIT/
+
+# Heavy raw course material (slides, textbooks, PDFs) - kept locally only.
+# Personal notes about them still live in MATERIAL-NOTES/ and are tracked.
+SUBJECTS/*/MATERIAL/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+### Java build ###
+*.class
+target/
+
+### Office temp/lock files ###
+~$*
+.~lock.*
+
+### OS ###
+.DS_Store
+Thumbs.db
